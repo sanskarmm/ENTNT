@@ -45,10 +45,8 @@ Ensure the following are installed on your system:
 ### Installation
 1. Clone the repository:
    ```bash
-  [ git clone https://github.com/your-username/calendar-app.git
-   cd calendar-app
-   ```](https://github.com/sanskarmm/ENTNT.git)
-
+  [ git clone 
+https://github.com/sanskarmm/ENTNT.git ]
 2. Install dependencies:
    ```bash
    npm install
